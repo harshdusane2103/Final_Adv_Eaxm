@@ -1,16 +1,19 @@
-# final_eaxm_ui
+<div align="center"> <h1> Inventory Management App </h1></div>
+<div align="center">
+  <h1>
+    Descripation :
+  </h1>
+  <p>
+    This Inventory Management App is develop by Local database .It store data Local in method.
+  </p>
+</div>
+<div align="center">
+  <img src="", width=21%,heigth=35%>
+</div>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/8498ecab-e831-41b5-a973-f1e940e423fc">
+</div>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
